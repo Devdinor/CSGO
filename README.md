@@ -1,11 +1,11 @@
-# CSGO
-Mousewheel Jump Bind
-bind mwheelup +jump;bind mwheeldown +jump;bind space +jump
+# CSGO <br>
+Mousewheel Jump Bind <br>
+bind mwheelup +jump;bind mwheeldown +jump;bind space +jump <br>
 
-LongJump bind
-alias +LJ "+duck; +jump; +klook"
-alias -LJ "-duck; -jump; -klook"
-bind space +LJ
+LongJump bind<br>
+alias +LJ "+duck; +jump; +klook"<br>
+alias -LJ "-duck; -jump; -klook"<br>
+bind space +LJ<br>
 
-viewmodel
-viewmodel_fov 90
+viewmodel<br>
+viewmodel_fov 90<br>
