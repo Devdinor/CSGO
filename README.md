@@ -9,3 +9,9 @@ bind space +LJ<br>
 
 viewmodel<br>
 viewmodel_fov 90<br>
+
+
+update Server CSGO:
+force_install_dir .\csgo-server\
+login anonymous
+app_update 740 validate
